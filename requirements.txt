@@ -1,0 +1,5 @@
+aiosqlite
+discord
+mcstatus
+ezcord
+python-dotenv
