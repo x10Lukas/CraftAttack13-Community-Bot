@@ -1,7 +1,5 @@
 # Craft Attack 13 Community Bot
 
-Willkommen zu meinen Discord.py Bot! Dieser Bot wurde entwickelt, um [Discord](https://discord.com/) Server zu unterstützen und bietet einige nützliche Funktionen.
-
 ## Installation
 
 1. Stelle sicher, dass du [Python](https://www.python.org/) auf deinem Computer installiert hast (empfohlen: Version 3.6 oder höher).
